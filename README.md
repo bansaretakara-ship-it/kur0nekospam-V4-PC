@@ -1,1 +1,1 @@
-# kur0nekospam-V4-PC
+print ("67")
